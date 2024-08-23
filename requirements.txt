@@ -3,5 +3,4 @@ numpy
 numba
 pandas
 ydata-profiling
-streamlit_pandas_profiling
 seaborn
