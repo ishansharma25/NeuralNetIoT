@@ -2,7 +2,7 @@ streamlit
 numpy
 numba
 pandas
+setuptools
+scapy
 ydata-profiling
 seaborn
-scapy
-setuptools
