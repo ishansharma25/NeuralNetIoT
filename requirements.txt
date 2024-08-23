@@ -1,0 +1,7 @@
+streamlit
+numpy
+numba==0.58.1
+pandas
+ydata-profiling
+streamlit_pandas_profiling
+seaborn
