@@ -3,6 +3,7 @@ numpy
 numba
 pandas
 tensorflow
+tensorflow_hub
 setuptools
 scapy
 ydata-profiling
