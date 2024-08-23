@@ -4,3 +4,4 @@ numba
 pandas
 ydata-profiling
 seaborn
+scapy
