@@ -5,6 +5,7 @@ pandas
 tensorflow
 tensorflow_hub
 setuptools
+shap
 scapy
 ydata_profiling
 seaborn
