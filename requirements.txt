@@ -1,6 +1,6 @@
 streamlit
 numpy
-numba==0.58.1
+numba
 pandas
 ydata-profiling
 streamlit_pandas_profiling
