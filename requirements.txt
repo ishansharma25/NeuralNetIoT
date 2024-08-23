@@ -6,5 +6,5 @@ tensorflow
 tensorflow_hub
 setuptools
 scapy
-ydata-profiling
+streamlit-pandas-profiling
 seaborn
