@@ -2,6 +2,7 @@ streamlit
 numpy
 numba
 pandas
+tensorflow
 setuptools
 scapy
 ydata-profiling
