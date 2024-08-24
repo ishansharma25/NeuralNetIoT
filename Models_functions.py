@@ -231,7 +231,7 @@ def input_page():
         startDateTime = st.text_input("Start Date Time", "6/13/2010 23:57")
         stopDateTime = st.text_input("Stop Date Time", "6/14/2010 0:11")
 
-        debug_mode = st.checkbox("Debug Mode")
+       
 
         if st.button("Predict"):
             # Prepare the input data
@@ -274,9 +274,9 @@ def input_page():
                     st.write("Data types:")
                     st.write(preprocessed_data.dtypes)
                     
-                    if debug_mode:
-                        st.write("Model input:")
-                        st.write(preprocessed_data.values)
+                   
+                    st.write("Model input:")
+                    st.write(preprocessed_data.values)
                     
                     # Make prediction using the preprocessed data
                     prediction, raw_prediction = predict_traffic(model, preprocessed_data)
